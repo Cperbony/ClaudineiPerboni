@@ -2,7 +2,7 @@
 ```ruby
 module Perboni
   def self.description
-    "A curious developer. Always learning, always changing."
+    "A curious developer. Always learning, always in love with all programming languages especially Ruby"
   end
 
   def self.blogging_at
