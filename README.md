@@ -20,5 +20,9 @@ module Perboni
   def self.hobbies
     ["weightlifting", "Playing guitar", "mountain bike"]
   end
+  
+  def self.faith
+    "Believer in Jesus Christ as the only one lord and savior" if true_faith 
+   end
 end
 ```
